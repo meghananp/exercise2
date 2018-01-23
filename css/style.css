@@ -252,3 +252,8 @@ h1{
   color: white;
   align: center;
 }
+
+.search{
+	float: right;
+	text-align: right;
+}
