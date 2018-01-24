@@ -2,14 +2,14 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
+                            
+Your title: Website to book movie tickets.                            
+Site: meghananpmegha@gmail.com, https://github.com/meghananp/exercise2.                                                   
+Location: Bengaluru.
 
 # THANKS
-
-    <name>
+Ximanta
+Dinesh Metkari
 
 # TECHNOLOGY COLOPHON
-
-    HTML5, CSS3
-    jQuery, Modernizr
+HTML5, CSS3
