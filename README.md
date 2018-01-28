@@ -1,6 +1,6 @@
 # HTML5 and CSS Exercise1
 
-##A simple html and css exercise
+## A simple html and css exercise ##
 
 *The basic requirements fulfilled in this project is*
 1. Page heading and nav bar 
